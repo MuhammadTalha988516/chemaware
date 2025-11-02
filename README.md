@@ -1,4 +1,4 @@
-# ChemAware - Chemical Safety App 🧪✨
+# ChemAware - Chemical Sfety App 🧪✨
 
 A modern, engaging mobile-first web application for chemical safety awareness with AI assistance.
 
